@@ -1,8 +1,4 @@
-# unit-4-game
-week 4 homework
-CrystalsCollector Game
-
-    Pseudo Code crystal game
+Pseudo Code crystal game
     //sort of like black jack\\
 you will click on a crystal, each crystal will have a seperate value
 at the start of every game a random number will generate, your goal is to essentaly play blackjack
